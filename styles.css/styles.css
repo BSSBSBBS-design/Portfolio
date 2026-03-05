@@ -39,6 +39,18 @@ h1 {
     opacity: 0.6;
 }
 
+/* Projects */
+.project {
+    margin-bottom: 2cm;
+}
+
+.project h2 {
+    font-size: 18px;
+    font-weight: normal;
+    margin-bottom: 12px;
+    opacity: 0.9;
+}
+
 /* Gallery Grid */
 .gallery {
     display: grid;
@@ -58,13 +70,6 @@ h1 {
     width: 100%;
     height: auto;
     display: block;
-}
-
-/* Project Titles */
-.gallery-item h3 {
-    font-size: 14px;
-    font-weight: normal;
-    opacity: 0.8;
 }
 
 /* Responsive */
